@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CaldulatorAppD</string>
+    <string name="result">RESULT</string>
 </resources>
