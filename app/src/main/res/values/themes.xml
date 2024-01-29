@@ -5,5 +5,13 @@
         <item name="colorPrimary">#FFFFFF</item>
     </style>
 
-    <style name="Theme.CaldulatorAppD" parent="Base.Theme.CaldulatorAppD" />
+    <style name="Theme.CaldulatorAppD" parent="Base.Theme.CaldulatorAppD"/>
+
+    <style name="Theme.LightBlue" parent="Base.Theme.CaldulatorAppD">
+        <item name="colorPrimary">#ADE2FF</item>
+    </style>
+
+    <style name="Theme.EqBlue" parent="Base.Theme.CaldulatorAppD">
+        <item name="colorPrimary">#19ACFF</item>
+    </style>
 </resources>
